@@ -2,7 +2,7 @@
 
 # RISC-Fuggit
 
-RISC-Fuggit is the name given to the reduced instruction set computer, designed, implemented and programmed by @itsShnik and @Akurath6555. We developed a single cycle instruction execution unit for RISC-Fuggit. The CPU was programmed in verilog with the __Xilinx ISE 14.7__ and was deployed on the FPGA Spartan 3. Below are the instructions to setup and use this CPU.
+RISC-Fuggit is the name given to the reduced instruction set computer, designed, implemented and programmed by [Nikhil](https://github.com/itsShnik) and [Amatya](https://github.com/Akurath65555). We developed a single cycle instruction execution unit for RISC-Fuggit. The CPU was programmed in verilog with the __Xilinx ISE 14.7__ and was deployed on the FPGA Spartan 3. Below are the instructions to setup and use this CPU.
 
 ## Instruction Set Architecture
 
